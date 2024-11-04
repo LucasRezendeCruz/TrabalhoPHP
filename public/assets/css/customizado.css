@@ -1,0 +1,45 @@
+.search_nav .input-group .form-control {
+    font-size: 14px;
+    border: 0px;
+    font-weight: 300;
+    color: #fff !important;
+    border-radius: 45px;
+    z-index: 0;
+    background: #6A0DAD
+}
+
+.shop_right_sidebar .search_nav .input-group .form-control.placeholder {
+    color: #fff !important;
+}
+
+.shop_right_sidebar .search_nav .input-group .form-control:-moz-placeholder {
+    color: #fff !important;
+}
+
+.shop_right_sidebar .search_nav .input-group .form-control::-moz-placeholder {
+    color: #fff !important;
+}
+
+.shop_right_sidebar .search_nav .input-group .form-control::-webkit-input-placeholder {
+    color: #fff !important;
+}
+
+.shop_right_sidebar .search_nav .input-group .form-control:focus {
+    box-shadow: none !important;
+}
+
+.shop_right_sidebar .search_nav .input-group .btn-default {
+    position: absolute;
+    background: transparent;
+    border: 0px;
+    box-shadow: none;
+    font-size: 14px;
+    color: #fff !important;
+    padding: 0px;
+    transform: translateY(-50%);
+    z-index: 1
+}
+
+.table_custom {
+    overflow-x: hidden;
+}
